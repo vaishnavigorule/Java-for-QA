@@ -34,7 +34,7 @@ Java is one of the most widely used programming languages in Selenium Automation
 ## 🛠 Technologies
 
 - Java
-- IntelliJ IDEA / Eclipse
+- Eclipse
 - JDK 17+
 - Git & GitHub
 
@@ -43,3 +43,4 @@ Java is one of the most widely used programming languages in Selenium Automation
 **Vaishnavi Gorule**
 
 Aspiring QA Engineer | Manual Testing | SQL | Java | Selenium (Learning)
+
