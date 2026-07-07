@@ -7,7 +7,6 @@ This repository is designed for QA Engineers who want to build a strong foundati
 ## 📚 Topics Covered
 
 - Java Basics
-- Variables & Data Types
 - Operators
 - Conditional Statements
 - Loops
