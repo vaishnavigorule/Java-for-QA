@@ -11,6 +11,7 @@ Loops are used to execute a block of code repeatedly until a specified condition
 - Break Statement
 - Continue Statement
 - Nested Loops
+- Loop Programs
 
 ## Why QA Engineers Learn Loops?
 
