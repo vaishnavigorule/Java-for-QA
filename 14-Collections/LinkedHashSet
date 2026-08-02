@@ -1,0 +1,17 @@
+import java.util.LinkedHashSet;
+
+public class LinkedHashSetExample {
+
+    public static void main(String[] args) {
+
+        LinkedHashSet<String> testTypes = new LinkedHashSet<>();
+
+        testTypes.add("Smoke");
+        testTypes.add("Regression");
+        testTypes.add("Functional");
+        testTypes.add("Smoke");
+
+        System.out.println(testTypes);
+
+    }
+}
